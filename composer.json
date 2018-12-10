@@ -1,0 +1,20 @@
+{
+    "name": "crossbrowsertesting/cbthelper",
+    "description": "cbthelper (PHP) wraps CrossBrowserTesting's selenium api into an easy to use library.",
+    "type": "library",
+    "require": {
+        "facebook/webdriver": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cbthelper\\": "src/Cbthelper"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daphne Magsby",
+            "email": "daphnem@crossbrowsertesting.com"
+        }
+    ]
+}
