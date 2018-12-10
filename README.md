@@ -1,7 +1,7 @@
 # Cbthelper
 
 
-cbthelper (PHP) wraps CrossBrowserTesting's selenium api into an easy to use library.
+cbthelper (PHP) wraps CrossBrowserTesting's selenium api into an easy to use library.  CrossBrowserTesting provides a device lab in the cloud so you don't have to manage your own device lab with multiple browser versions. Run your selenium tests across multiple device and browser combinations at a time and quickly jump to a live test to debug. With this wrapper, you can easily start a Selenium test, take a snapshot, set test score, and much more.
 
 ## Installation
 
