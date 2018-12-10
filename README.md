@@ -5,7 +5,7 @@ cbthelper (PHP) wraps CrossBrowserTesting's selenium api into an easy to use lib
 
 ## Installation
 
-Using composer
+Using Composer
 
 ```php
 composer require crossbrowsertesting/cbthelper
