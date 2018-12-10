@@ -1,4 +1,4 @@
-<?php namespace Cbthelper;
+<?php
 require_once ("vendor/autoload.php");
 use \Cbthelper\Cbthelper as Cbthelper;
 use Facebook\WebDriver\Remote\RemoteWebdriver;
